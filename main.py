@@ -2,7 +2,7 @@ import openai
 import streamlit as st
 import time
 
-assistant_id = st.secrets["ASSISTANT_KEY"]
+#assistant_id = st.secrets["ASSISTANT_KEY"]
 
 client = openai
 
